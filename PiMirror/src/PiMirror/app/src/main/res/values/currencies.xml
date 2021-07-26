@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item> Bitcoin</item>
+        <item> Bitcoin-cash</item>
+        <item> Cardano </item>
+        <item> Eos </item>
+        <item> Ethereum </item>
+        <item> Iota </item>
+        <item> Litecoin </item>
+        <item> Neo </item>
+        <item> Ripple </item>
+        <item> Stellar </item>
+    </string-array>
+
+</resources>

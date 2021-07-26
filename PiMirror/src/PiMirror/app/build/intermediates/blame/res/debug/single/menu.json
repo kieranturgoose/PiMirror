@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\connect_to_pi.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\connect_to_pi.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\turn_off_mirror.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\turn_off_mirror.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\save_button.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\save_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\change_profile.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\change_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\signout.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\signout.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\turn_on_mirror.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\turn_on_mirror.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_google_account.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\remove_google_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\show_graphs.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\show_graphs.xml"
+    },
+    {
+        "merged": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\res\\merged\\debug\\menu\\weather_api.xml",
+        "source": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\src\\main\\res\\menu\\weather_api.xml"
+    }
+]

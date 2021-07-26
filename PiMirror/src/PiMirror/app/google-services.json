@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164853937217",
+    "project_id": "pimirrorapp-1517593846198"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164853937217:android:5b54c5c6eefed74b",
+        "android_client_info": {
+          "package_name": "com.example.i329995.pimirror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164853937217-lbda5rnrq7ipah6sti5o307eucjiio8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.i329995.pimirror",
+            "certificate_hash": "e49e40409baa817f51320713d6405b64e90abd01"
+          }
+        },
+        {
+          "client_id": "164853937217-mugmo5o4m7ahiq7spq60lttngllkv8e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc19_8LfszjZfT2Xu1tCALIvQ-F2uwcJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

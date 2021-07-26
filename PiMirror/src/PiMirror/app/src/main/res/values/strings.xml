@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">PiMirror</string>
+
+<string-array name="topLeft">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="topMiddle">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="topRight">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="centreLeft">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="centreMiddle">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="centreRight">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="bottomLeft">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="bottomMiddle">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+<string-array name="bottomRight">
+    <item>Cappuccino</item>
+    <item>Espresso</item>
+    <item>Mocha</item>
+    <item>Caffè Americano</item>
+    <item>Cafe Zorro</item>
+</string-array>
+</resources>

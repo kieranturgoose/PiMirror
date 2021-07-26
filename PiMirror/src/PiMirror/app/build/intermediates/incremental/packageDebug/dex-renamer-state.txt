@@ -1,0 +1,7 @@
+#Sat May 19 14:58:55 BST 2018
+base.0=C\:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a999337f59e22cf3b6efa773fbd7b4900912b825
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_36eaa324d34e54f3204bc6c960e27212932f1c4a\\classes.dex
+base.1=C\:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_36eaa324d34e54f3204bc6c960e27212932f1c4a
+file.0=C\:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a999337f59e22cf3b6efa773fbd7b4900912b825\\classes.dex

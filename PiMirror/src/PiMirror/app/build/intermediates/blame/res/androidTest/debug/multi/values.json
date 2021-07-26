@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\I329995\\Desktop\\College\\4thYearProject\\SmartMirror\\SmartMirror\\2018-ca400-XXXX\\src\\PiMirror\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\I329995\\.android\\build-cache\\0fd44bea2f9ab32af78ad32ddfc14484eae6ba5e\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

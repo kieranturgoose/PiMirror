@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_array">
+        <item> New York Times</item>
+        <item> Sky News </item>
+        <item> RTE </item>
+
+
+    </string-array>
+    
+</resources>

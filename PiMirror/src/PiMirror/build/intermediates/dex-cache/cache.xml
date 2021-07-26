@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\I329995\Desktop\College\4thYearProject\SmartMirror\SmartMirror\2018-ca400-XXXX\src\PiMirror\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\I329995\Desktop\College\4thYearProject\SmartMirror\SmartMirror\2018-ca400-XXXX\src\PiMirror\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a999337f59e22cf3b6efa773fbd7b4900912b825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I329995\Desktop\College\4thYearProject\SmartMirror\SmartMirror\2018-ca400-XXXX\src\PiMirror\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="964945be022c0cc3634a791fb36bed7994dc5fea">
+        <dex dex="C:\Users\I329995\Desktop\College\4thYearProject\SmartMirror\SmartMirror\2018-ca400-XXXX\src\PiMirror\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_36eaa324d34e54f3204bc6c960e27212932f1c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\I329995\Desktop\College\4thYearProject\SmartMirror\SmartMirror\2018-ca400-XXXX\src\PiMirror\app\libs\jsch-0.1.54.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d7d8aba0d11e8cd2f775f47cd3a6cfbf2837da4">
+        <dex dex="C:\Users\I329995\Desktop\College\4thYearProject\SmartMirror\SmartMirror\2018-ca400-XXXX\src\PiMirror\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsch-0.1.54_0e4a872f9c7970b24ceec0d0597806c0b0ebee51\classes.dex" />
+    </item>
+
+</items>
